@@ -1,0 +1,13 @@
+{
+  "client": {
+    "host": "ServerTa3Dabay7at.aternos.me",
+    "port": "48617",
+    "username": "Bien_joué"
+  },
+  "logLevel": ["error", "log", "debug"],
+  "action": {
+    "commands": ["forward", "back", "left", "right", "jump"],
+    "holdDuration": 5000,
+    "retryDelay": 15000
+  }
+}
